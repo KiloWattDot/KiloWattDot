@@ -23,6 +23,7 @@ My name is Dorothy Gilchrist and I was born/raised in Atlanta, Georgia where I s
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kilowattdot).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/KiloWattDot/KiloWattDot_intro/issues/1)! I am happy to help.
+- 🤸 &nbsp; Fun fact, I practice the Brazilian martial art Capoeira.
 - 📫 &nbsp; How to reach me: doro.gilchrist@gmail.com.
 <!-- - 📝 &nbsp; Checkout my [Resume](COMING SOON). -->
 
