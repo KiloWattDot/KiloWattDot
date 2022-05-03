@@ -12,14 +12,14 @@
 
 
 
-My name is Dorothy Gilchrist and I was born/raised in Atlanta, Georgia where I still currently reside. I have a bachelors degree in Electrical & Electronics Engineering 🎓 from the University of Georgia. Go Bulldogs 🐶! I'm very enthusiastic about tech, I really enjoy exploring complex problems, and finding the most sustainable solutions ✨. I'm currently into Web Development 🕸️ and I am specifically enthusistic about Web 3.0 🌐, Blockchain development , DApps, & much more.
+My name is Dorothy Gilchrist and I was born/raised in Atlanta, Georgia where I still currently reside. I have a bachelors degree in Electrical & Electronics Engineering 🎓 from the University of Georgia. Go Bulldogs 🐶! I'm very enthusiastic about tech, I really enjoy exploring complex problems and finding the most viable solutions ✨. I'm currently into Web Development 🕸️ and I am actively interested in engagement within Web 3.0 🌐, Open source projects , DApps, & much more.
 
 <img align="center" height="250" width="375" alt="" src="5eKX.gif" />
 
 ### A little more about Me:
 
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, Solidity etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kilowattdot).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/KiloWattDot/KiloWattDot_intro/issues/1)! I am happy to help.
@@ -42,3 +42,7 @@ My name is Dorothy Gilchrist and I was born/raised in Atlanta, Georgia where I s
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+
+
+
