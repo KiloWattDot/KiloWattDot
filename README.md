@@ -12,7 +12,7 @@
 
 
 
-My name is Dorothy Gilchrist and I was born/raised in Atlanta, Georgia where I still currently reside. I have a bachelors degree in Electrical & Electronics Engineering 🎓 from the University of Georgia. Go Bulldogs 🐶! I'm very enthusiastic about tech, I really enjoy exploring complex problems and finding the most viable solutions ✨. I'm currently into Web Development 🕸️ and I am actively interested in engagement within Web 3.0 🌐, Open source projects , DApps, & much more.
+My name is Dorothy Gilchrist, but I like to go by Dot and I was born/raised in Atlanta, Georgia where I still currently reside. I have a bachelors degree in Electrical & Electronics Engineering 🎓 from the University of Georgia. Go Bulldogs 🐶! I'm very enthusiastic about tech, I really enjoy exploring complex problems and finding the most viable solutions ✨. I'm currently into Web Development 🕸️ and I am actively interested in engagement within Web 3.0 🌐, Open source projects , DApps, & much more.
 
 <img align="center" height="250" width="375" alt="" src="5eKX.gif" />
 
