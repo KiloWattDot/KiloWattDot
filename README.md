@@ -22,7 +22,7 @@ My name is Dorothy Gilchrist, but I like to go by Dot and I was born/raised in A
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, Solidity etc.
 - 🚀 &nbsp; I’m most proficient in MERN Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/kilowattdot).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/KiloWattDot/KiloWattDot_intro/issues/1)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/KiloWattDot/KiloWattDot/issues/1)! I am happy to help.
 - 🤸 &nbsp; Fun fact, I practice the Brazilian martial art Capoeira.
 - 📫 &nbsp; How to reach me: doro.gilchrist@gmail.com.
 <!-- - 📝 &nbsp; Checkout my [Resume](COMING SOON). -->
