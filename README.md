@@ -44,6 +44,6 @@ My name is Dorothy Gilchrist, but I like to go by Dot and I was born/raised in A
 <code><img height="27" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-
+<code><img height="27" src="XQkaoFRg_400x400.jpg" alt="hardhat"></code>
 
 
